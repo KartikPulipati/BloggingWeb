@@ -1,0 +1,28 @@
+{% extends "blogApp/base.html" %}
+{% load static %}
+
+{% block content %}
+
+    <br>
+
+
+<div class="container">
+    <h1>Showing results for '{{ term }}'</h1>
+    <br>
+{% for b in blog %}
+ <h1>
+      <a href="{% url 'detail' b.id %}">
+          {{ b.title }}
+      </a>
+            </h1>
+        <h5>
+        {{ b.blog|truncatechars:100 }}...
+            </h5>
+    <br>
+    <hr>
+{% endfor %}
+    {% if blog.count == 0 %}
+    <h3> Looks Like there are not any matches for this, try a different search!</h3>
+    {% endif %}
+</div>
+{% endblock content %}

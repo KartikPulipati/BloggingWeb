@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\mural\Downloads\Programming\Solar Land\AlphaHacks_Hackathon_Data_-_Site_A_-_2018-2019-2020_Daily_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\Solar Land\AlphaHacks_Hackathon_Data_-_Site_B_-_2018-2019-2020_Daily_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\Solar Land\AlphaHacks_Hackathon_Data_-_Site_C_-_2018-2019-2020_Daily_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\RetailSales_BeerWineLiquor.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\Sales_Funnel_CRM.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\example.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\movie_scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\new_file.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\newfile.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\03-Pandas\tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\05-Seaborn\StudentsPerformance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\05-Seaborn\country_table.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\05-Seaborn\dm_office_sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\06-Capstone-Project\all_sites_scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\06-Capstone-Project\fandango_scrape.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\AMES_Final_DF.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\Ames_Housing_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\Ames_NO_Missing_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\Ames_outliers_removed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\CIA_Country_Facts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\RetailSales_BeerWineLiquor.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\Telco-Customer-Churn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\cement_slump.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\country_iso_codes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\credit_default_risk.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\data-dictionary.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\data_banknote_authentication.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\example.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\gene_expression.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\hearing_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\heart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\mouse_viral_study.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\movie_scores.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\mushrooms.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\pattern_test_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\penguins_lter.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\penguins_size.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\rock_density_xray.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\sex_height_weight.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\sonar.all-data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\tips.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\wine_fraud.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\winequality-red.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\mural\Downloads\Programming\UNZIP_FOR_NOTEBOOKS_V6\DATA\winequality-white.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\blog\blogApp\templates\blogApp\base.html">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\blog\blogApp\views.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\blog\blog\settings.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\blog\blog\urls.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

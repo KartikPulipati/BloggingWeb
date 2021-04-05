@@ -1,0 +1,7 @@
+
+spython:S117E"URename this local variable "Blog" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎóÄÛ8­¯­„Š/
+spython:S1192"TDefine a constant instead of duplicating this literal 'blogApp/signup.html' 3 times.(¦¯ïñ8¾Ãžø‰/
+rpython:S1542D"NRename function "detailUp" to match the regular expression ^[a-z_][a-z0-9_]*$.(³‹ÅÅúÿÿÿÿ8©ÎÈ„Š/
+{python:S117;"XRename this local variable "newBlog" to match the regular expression ^[_a-z][a-z0-9_]*$.(»´’ùûÿÿÿÿ8¿°áÿ‰/
+xpython:S117R"URename this local variable "Blog" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ§û‹ûÿÿÿÿ8¾ÇÑ„Š/
+spython:S117V"URename this local variable "Blog" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎóÄÛ8¶¹ü„Š/

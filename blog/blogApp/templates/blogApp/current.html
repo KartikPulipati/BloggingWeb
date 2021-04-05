@@ -1,0 +1,29 @@
+{% extends "blogApp/base.html" %}
+{% load static %}
+
+{% block content %}
+<br>
+<ul>
+    <br>
+    {% for b in blogs %}
+        <h1>
+      <a href="{% url 'detail' b.id %}">
+          {{ b.title }}
+      </a>
+            </h1>
+        <h5>
+        {{ b.blog|truncatechars:100 }}...
+            </h5>
+    <br>
+    <hr>
+    {% endfor %}
+</ul>
+<br>
+{% if Blogs.count == 0 %}
+<h2 align="center">You have no Blogs Yet!</h2>
+{% endif %}
+<br>
+<div align="center" >
+<a style="font-size: 150%;" href="{% url 'create' %}" class="btn btn-success">Create!</a>
+        </div>
+{% endblock content %}

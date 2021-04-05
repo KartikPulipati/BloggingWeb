@@ -1,0 +1,25 @@
+{% extends "blogApp/base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+
+
+<div class="row justify-content-center my-3">
+  <div class="text-center">
+  <img src="{% static 'blogApp/mes.png' %}" class="img-fluid mb-2" style="width: 200px; height: 200px">
+</div>
+
+</div>
+
+<div class="row justify-content-center mb-3">
+  <div class="col-md-9 text-center">
+    <h1 style="font-family: 'Indie Flower', cursive;" class="font-weight-bold">Kartik M. Pulipati</h1>
+  </div>
+</div>
+
+    <div style="font-family: 'Cutive Mono', monospace;">
+        <h4>I am a 16 year Old Web Developer, who is still learning as he goes.  Check out <a href="https://thebluecoder09.pythonanywhere.com/" target="_blank">this</a> for more of my projects!</h4>
+    </div>
+</div>
+{% endblock content %}

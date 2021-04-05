@@ -1,0 +1,33 @@
+{% extends "blogApp/base.html" %}
+{% load static %}
+
+{% block content %}
+<div align="center">
+    <img src="{% static 'blogApp/logo.png' %}">
+    <br>
+    <br>
+    <h1>Write Your Blog</h1>
+    <br>
+    <br>
+    </div>
+<div class="container">
+<form method="POST">
+     {% csrf_token %}
+    {% if error %}
+     <div class="alert alert-danger" role="alert">
+
+        {{ error }}
+          </div>
+         {% endif %}
+
+    {{ form.as_p }}
+
+<div align="center">
+    <button class="btn btn-primary" type="submit">Create</button>
+</div>
+</form>
+</div>
+<br>
+<br>
+
+{% endblock content %}

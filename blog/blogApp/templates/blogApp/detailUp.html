@@ -1,0 +1,23 @@
+{% extends "blogApp/base.html" %}
+{% load static %}
+
+{% block content %}
+<br>
+<br>
+<br>
+<br>
+{{ error }}
+<div class="container" align="center">
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button class="btn btn-primary" type="submit">Update</button>
+</form>
+    <br>
+    <br>
+    <form method="POST" action="{% url 'delete' blog.id %}">
+        {% csrf_token %}
+        <button class="btn btn-danger" type="submit">Delete</button>
+    </form>
+    </div>
+{% endblock content %}
