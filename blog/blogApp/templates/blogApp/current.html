@@ -3,6 +3,9 @@
 
 {% block content %}
 <br>
+<div class="container">
+<h4 class="cool">Signed in as <span>{{user.username}}</span></h4>
+    </div>
 <ul>
     <br>
     {% for b in blogs %}
@@ -16,12 +19,10 @@
             </h5>
     <br>
     <hr>
+    {% empty %}
+    <h2 align="center">You have no Blogs Yet!</h2>
     {% endfor %}
 </ul>
-<br>
-{% if Blogs.count == 0 %}
-<h2 align="center">You have no Blogs Yet!</h2>
-{% endif %}
 <br>
 <div align="center" >
 <a style="font-size: 150%;" href="{% url 'create' %}" class="btn btn-success">Create!</a>
