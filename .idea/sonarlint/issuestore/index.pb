@@ -35,3 +35,9 @@ Z
 *blog/blogApp/templates/blogApp/create.html,f\7\f77e49644ae0d15efd1abd826a39ab04a97051cb
 \
 ,blog/blogApp/templates/blogApp/detailUp.html,e\c\ec30662aadb6189cab04552152bfa94fb5e06eee
+Z
+*blog/blogApp/templates/blogApp/search.html,c\f\cfb751ba111304716963a266fb33d6224bd377e4
+Y
+)blog/blogApp/templates/blogApp/about.html,9\f\9f5f5e8fa3a0ea2d2bfd387262c2f16e05885a82
+E
+blog/blogApp/tests.py,9\3\93346983bc8d1ec3ca51f1ec738e984289a4e026
